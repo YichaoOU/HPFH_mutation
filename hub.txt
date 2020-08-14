@@ -1,0 +1,5 @@
+hub HPFH
+shortLabel HPFH Phil
+longLabel Activation of gamma-globin by GATA-1 and NF-Y in hereditary persistence of fetal hemoglobin
+genomesFile genomes.txt
+email Yichao.Li@stjude.org

@@ -1,0 +1,8 @@
+track NFYB_WT
+bigDataUrl https://ndownloader.figshare.com/files/24251399
+shortLabel NFYB WT
+longLabel NFYB WT
+type bigWig
+visibility full
+color 123,204,196
+autoScale on
