@@ -6,3 +6,193 @@ type bigWig
 visibility full
 color 123,204,196
 autoScale on
+
+
+track GATA1_13nt_rep2
+bigDataUrl https://ndownloader.figshare.com/files/24251408
+shortLabel GATA1_13nt_rep2
+longLabel GATA1_13nt_rep2
+type bigWig
+visibility full
+color 123,204,196
+autoScale on
+
+track NFYB_13nt_rep1
+bigDataUrl https://ndownloader.figshare.com/files/24251387
+shortLabel NFYB13ntrep1bw
+longLabel NFYB13ntrep1bw
+type bigWig
+visibility full
+color 123,204,196
+autoScale on
+
+track NFYB_186T_13nt_dp
+bigDataUrl https://ndownloader.figshare.com/files/24251393
+shortLabel NFYB_186T_13nt_dp
+longLabel NFYB_186T_13nt_dp
+type bigWig
+visibility full
+color 123,204,196
+autoScale on
+
+track GATA1_13nt_rep1
+bigDataUrl https://ndownloader.figshare.com/files/24251405
+shortLabel GATA1_13nt_rep1
+longLabel GATA1_13nt_rep1
+type bigWig
+visibility full
+color 123,204,196
+autoScale on
+
+track GATA1_186T_113G
+bigDataUrl https://ndownloader.figshare.com/files/24251438
+shortLabel GATA1_186T_113G
+longLabel GATA1_186T_113G
+type bigWig
+visibility full
+color 123,204,196
+autoScale on
+
+track GATA1_110C_rep2
+bigDataUrl https://ndownloader.figshare.com/files/24251417
+shortLabel GATA1_110C_rep2
+longLabel GATA1_110C_rep2
+type bigWig
+visibility full
+color 123,204,196
+autoScale on
+
+track GATA1_13nt_dp
+bigDataUrl https://ndownloader.figshare.com/files/24251402
+shortLabel GATA1_13nt_dp
+longLabel GATA1_13nt_dp
+type bigWig
+visibility full
+color 123,204,196
+autoScale on
+
+track GATA1_113G_rep1
+bigDataUrl https://ndownloader.figshare.com/files/24251423
+shortLabel GATA1_113G_rep1
+longLabel GATA1_113G_rep1
+type bigWig
+visibility full
+color 123,204,196
+autoScale on
+
+track GATA1_13nt_rep3
+bigDataUrl https://ndownloader.figshare.com/files/24251411
+shortLabel GATA1_13nt_rep3
+longLabel GATA1_13nt_rep3
+type bigWig
+visibility full
+color 123,204,196
+autoScale on
+
+track NFYB_110C
+bigDataUrl https://ndownloader.figshare.com/files/24251378
+shortLabel NFYB_110C
+longLabel NFYB_110C
+type bigWig
+visibility full
+color 123,204,196
+autoScale on
+
+track GATA1_110C_rep1
+bigDataUrl https://ndownloader.figshare.com/files/24251414
+shortLabel GATA1_110C_rep1
+longLabel GATA1_110C_rep1
+type bigWig
+visibility full
+color 123,204,196
+autoScale on
+
+track GATA1_113G_rep2
+bigDataUrl https://ndownloader.figshare.com/files/24251420
+shortLabel GATA1_113G_rep2
+longLabel GATA1_113G_rep2
+type bigWig
+visibility full
+color 123,204,196
+autoScale on
+
+track GATA1_WT
+bigDataUrl https://ndownloader.figshare.com/files/24251441
+shortLabel GATA1_WT
+longLabel GATA1_WT
+type bigWig
+visibility full
+color 123,204,196
+autoScale on
+
+track GATA1_186T_13nt_dp
+bigDataUrl https://ndownloader.figshare.com/files/24251429
+shortLabel GATA1_186T_13nt_dp
+longLabel GATA1_186T_13nt_dp
+type bigWig
+visibility full
+color 123,204,196
+autoScale on
+
+track NFYB_186T_13nt
+bigDataUrl https://ndownloader.figshare.com/files/24251390
+shortLabel NFYB_186T_13nt
+longLabel NFYB_186T_13nt
+type bigWig
+visibility full
+color 123,204,196
+autoScale on
+
+track NFYB_13nt_dp
+bigDataUrl https://ndownloader.figshare.com/files/24251384
+shortLabel NFYB_13nt_dp
+longLabel NFYB_13nt_dp
+type bigWig
+visibility full
+color 123,204,196
+autoScale on
+
+track GATA1_186T_110C
+bigDataUrl https://ndownloader.figshare.com/files/24251435
+shortLabel GATA1_186T_110C
+longLabel GATA1_186T_110C
+type bigWig
+visibility full
+color 123,204,196
+autoScale on
+
+track NFYB_113G
+bigDataUrl https://ndownloader.figshare.com/files/24251396
+shortLabel NFYB_113G
+longLabel NFYB_113G
+type bigWig
+visibility full
+color 123,204,196
+autoScale on
+
+track GATA1_186T_13nt_rep1
+bigDataUrl https://ndownloader.figshare.com/files/24251426
+shortLabel GATA1_186T_13nt_rep1
+longLabel GATA1_186T_13nt_rep1
+type bigWig
+visibility full
+color 123,204,196
+autoScale on
+
+track NFYB_13nt_rep2
+bigDataUrl https://ndownloader.figshare.com/files/24251381
+shortLabel NFYB_13nt_rep2
+longLabel NFYB_13nt_rep2
+type bigWig
+visibility full
+color 123,204,196
+autoScale on
+
+track GATA1_186T_13nt_rep2
+bigDataUrl https://ndownloader.figshare.com/files/24251432
+shortLabel GATA1_186T_13nt_rep2
+longLabel GATA1_186T_13nt_rep2
+type bigWig
+visibility full
+color 123,204,196
+autoScale on
